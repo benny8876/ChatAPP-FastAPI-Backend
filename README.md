@@ -34,3 +34,19 @@ This project is a robust Backend System for a real-time chat application and vid
 Bash
 git clone [https://github.com/benny8876/ChatAPP-FastAPI-Backend.git](https://github.com/benny8876/ChatAPP-FastAPI-Backend.git)
 cd ChatAPP-FastAPI-Backend
+
+
+2. Create a virtual environment
+Bash
+python -m venv .venv
+source .venv/bin/activate
+
+
+3. Install dependencies
+Bash
+pip install -r requirements.txt
+
+
+4. Run the application
+Bash
+uvicorn main:app --reload

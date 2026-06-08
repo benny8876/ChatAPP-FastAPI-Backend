@@ -1,6 +1,5 @@
-It's a great idea to have your README.md in English as it is the standard language for global software development. Here is the professional English version of your README:
-
 ChatAPP FastAPI Backend
+
 This project is a robust Backend System for a real-time chat application and video management platform, built using FastAPI.
 
 🚀 Key Features

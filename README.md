@@ -25,3 +25,12 @@ This project is a robust Backend System for a real-time chat application and vid
 ├── models.py        # SQLAlchemy database models
 ├── schemas.py       # Pydantic models for data validation
 └── main.py          # Application entry point
+
+
+
+⚙️ How to run locally
+1. Clone the repository
+
+Bash
+git clone [https://github.com/benny8876/ChatAPP-FastAPI-Backend.git](https://github.com/benny8876/ChatAPP-FastAPI-Backend.git)
+cd ChatAPP-FastAPI-Backend

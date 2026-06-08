@@ -16,7 +16,7 @@ This project is a robust Backend System for a real-time chat application and vid
 * **Security**: Passlib (Bcrypt) for password hashing, PyJWT for tokens
 * **Project Structure**: Modular design for scalability
 
-🤝 Contribution
+## 🤝 Contribution
 Contributions are always welcome! If you find any bugs or have ideas for new features, please feel free to open an issue or submit a pull request.
 
 ## 📁 Project Structure
